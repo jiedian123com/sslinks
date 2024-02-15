@@ -21,9 +21,6 @@
 ## ssLinks跑路
 目前ssLinks没有跑路，可以放心使用。
 
-## ssLinks评测
-更多有关ssLinks评测可访问：https://jichangzhu.com/node/sslinks/
-
 ## 更多推荐
  - [最新机场节点购买推荐](https://github.com/jiedian123com)
  - [最新高速稳定好用的机场节点购买推荐](https://www.jiedian123.com/?utm_source=github&utm_medium=jiedian123com-details)
